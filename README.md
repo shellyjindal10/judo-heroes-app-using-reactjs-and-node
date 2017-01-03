@@ -8,3 +8,9 @@
 - npm install
 - run the scripts npm run start
 - on Browser  http://localhost:3000
+
+###IndexPage
+![alt tag](https://github.com/shellyjindal10/judo-heroes-app-using-reactjs-and-node/blob/master/src/static/img/IndexPage.png)
+
+###AthletePage
+![alt tag](https://github.com/shellyjindal10/judo-heroes-app-using-reactjs-and-node/blob/master/src/static/img/athletePage.png)
